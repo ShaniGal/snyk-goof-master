@@ -6,6 +6,7 @@ module.exports = {
 
   uid : function ( len ){
     var just_work_already     = 'this is not workign!!!';
+    var just_work_already2     = 'this is not workign!!!';
 
     var str     = '';
     var src     = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
